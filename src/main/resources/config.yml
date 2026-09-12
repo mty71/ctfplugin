@@ -1,0 +1,41 @@
+# 聖地占領戦 (CtfPlugin) 設定ファイル
+
+holy-ground:
+  world: world
+  x: 0.0
+  y: 64.0
+  z: 0.0
+
+teams:
+  RED:
+    spawn:
+      world: world
+      x: 100.0
+      y: 64.0
+      z: 0.0
+      yaw: 0.0
+      pitch: 0.0
+  BLUE:
+    spawn:
+      world: world
+      x: -100.0
+      y: 64.0
+      z: 0.0
+      yaw: 0.0
+      pitch: 0.0
+  GREEN:
+    spawn:
+      world: world
+      x: 0.0
+      y: 64.0
+      z: 100.0
+      yaw: 0.0
+      pitch: 0.0
+  YELLOW:
+    spawn:
+      world: world
+      x: 0.0
+      y: 64.0
+      z: -100.0
+      yaw: 0.0
+      pitch: 0.0

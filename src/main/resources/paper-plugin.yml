@@ -1,0 +1,11 @@
+name: CtfPlugin
+version: '1.0'
+main: org.mt17.ctfPlugin.CtfPlugin
+api-version: '1.21'
+description: 4チーム対抗の聖地占領戦 PvP プラグイン
+author: mt17
+
+permissions:
+  ctf.admin:
+    description: 聖地占領戦の管理者権限
+    default: op
